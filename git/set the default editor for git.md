@@ -1,4 +1,3 @@
-#mochi
 START
 Basic
 Front: How to set the default editor for git?

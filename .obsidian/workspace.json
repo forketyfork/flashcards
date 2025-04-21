@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "95831a027ec31d5f",
+        "id": "692ea3f9f647c63e",
         "type": "tabs",
         "children": [
           {
-            "id": "81c52e1a0d42a204",
+            "id": "bf7a1a63ca889591",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clitools/compress a pdf file preserving vector graphics and text.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "compress a pdf file preserving vector graphics and text"
+              "title": "New tab"
             }
           }
         ]
@@ -166,11 +162,34 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "81c52e1a0d42a204",
+  "active": "bf7a1a63ca889591",
   "lastOpenFiles": [
-    "README.md",
-    "clitools/compress a pdf file preserving vector graphics and text.md",
-    "templates/Flash card.md",
+    "nix/what are nix overlays.md",
+    "nix/what arguments do nix overlays take.md",
+    "nix/how do nix overlays modify packages.md",
+    "nix/how can overlays be used in standalone nix code.md",
+    "nix/how can overlays be used in nix configuration.md",
+    "nix/how can nix overlays be used in home manager.md",
+    "nix/what are the advantages of nix overlays.md",
+    "nix/what is the difference between self super and final prev in overlays.md",
+    "nix/what do final and prev represent in nix overlays.md",
+    "nix/what do self and super represent in overlays.md",
+    "nix/why was final prev introduced.md",
+    "nix/when should you use self super.md",
+    "nix/when should you use final prev.md",
+    "kotlin/buildMap function.md",
+    "clitools/extract endings of strings that start with a specific prefix using awk.md",
+    "nix/differences between self super and final prev.md",
+    "linux/what is a bind mount.md",
+    "linux/how does a bind mount differ from a symlink.md",
+    "linux/can changes in a bind mount affect the original location.md",
+    "linux/how to create a bind mount.md",
+    "gradle/what does the --continue flag do.md",
+    "gradle/what does the --rerun-tasks flag do.md",
+    "gradle/how to reexecute all gradle tasks.md",
+    "gradle/what does -s flag do.md",
+    "shell/what is a login shell.md",
+    "shell/what is the difference between login and non-login shell.md",
     "templates"
   ]
 }
