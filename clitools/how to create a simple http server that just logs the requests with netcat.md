@@ -19,5 +19,5 @@ while true; do echo -e "HTTP/1.1 200 OK\n\n $(date)" | nc -l -p 31337; done
 ```
 
 `echo -e` means that echo will process escape sequences, e.g. `\n`.
-
+<!--ID: 1745238713630-->
 END

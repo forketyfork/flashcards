@@ -8,5 +8,5 @@ netstat -ap TCP
 ```
 - `-a` shows the state of all sockets, including server processes;
 - `-p` selects the protocol, TCP in this case.
-
+<!--ID: 1745238713692-->
 END

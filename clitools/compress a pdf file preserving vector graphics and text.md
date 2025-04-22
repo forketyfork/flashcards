@@ -19,5 +19,5 @@ gs -sDEVICE=pdfwrite \
 - `NOPAUSE` — no pause between page renders;
 - `QUIET` — suppresses most terminal output;
 - `BATCH` — prevents Ghostscript from prompting you when done;
-<!--ID: 1745151994749-->
+<!--ID: 1745299611388-->
 END

@@ -12,5 +12,5 @@ wget <url> -P /path/to/
 ```
 
 `-O`, or `--output-document`, defines the full file path, while `-P`, or `--directory-prefix`, specifies just the directory.
-
+<!--ID: 1745238713554-->
 END

@@ -8,5 +8,5 @@ Set the following settings for the local repository:
 git config oh-my-zsh.hide-info 1
 git config oh-my-zsh.hide-status 1
 ```
-
+<!--ID: 1745299611379-->
 END

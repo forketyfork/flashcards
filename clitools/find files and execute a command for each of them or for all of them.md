@@ -6,5 +6,5 @@ The following command executes the command `echo "file found" filename` for ea
 `find . -type f -exec echo "file found" {} \;`  
 The following command executes the echo command only once, providing it the space-separated list of files:  
 `find . -type f -exec echo "files found" {} \+`
-
+<!--ID: 1745238713659-->
 END
