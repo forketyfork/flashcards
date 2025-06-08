@@ -7,5 +7,15 @@
       ],
       "key": "I"
     }
+  ],
+  "insert-unsplash-image:insert": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }
