@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2a99c1c210c9d7f6",
+        "id": "7a45cf808df49b57",
         "type": "tabs",
         "children": [
           {
-            "id": "633cf52a37b46951",
+            "id": "fc46abce0c102040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macos/how to test launchctl agent on macos.md",
+                "file": "git/git add -p.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how to test launchctl agent on macos"
-            }
-          },
-          {
-            "id": "96b79a1fe588c8eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Flash card.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Flash card"
+              "title": "git add -p"
             }
           }
         ]
@@ -69,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "outdated",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,13 +181,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "633cf52a37b46951",
+  "active": "fc46abce0c102040",
   "lastOpenFiles": [
+    "docker/--userns-remap.md",
+    "git/git add -p.md",
+    "templates/Flash card.md",
     "javascript/how to check for outdated packages and update in yarn.md",
+    "German/C1.md",
     "macos/how to test launchctl agent on macos.md",
     "shell/how to set a default value of a variable if its not defined.md",
-    "German/C1.md",
-    "templates/Flash card.md",
     "templates/WordImageExample.md",
     "git/find a string in git commit messages.md",
     "teamcity/artifact dependencies.md",
@@ -223,8 +210,6 @@
     "go/how to execute a program and replace the currently running process.md",
     "helm/and and or functions.md",
     "linux/how to exclude packages from apt-get install.md",
-    "ssh/how to print the public part of an ssh key.md",
-    "clitools/extract endings of strings that start with a specific prefix using awk.md",
     "templates"
   ]
 }
