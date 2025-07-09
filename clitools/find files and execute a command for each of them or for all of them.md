@@ -2,9 +2,14 @@ START
 Basic
 Front: How to find files and execute a command for each of them or for all of them?
 Back: 
-The following command executes the command `echo "file found" filename` for each found file:  
+**Execute command for each file individually:**  
 `find . -type f -exec echo "file found" {} \;`  
-The following command executes the echo command only once, providing it the space-separated list of files:  
-`find . -type f -exec echo "files found" {} \+`
+
+**Execute command once with all files as arguments:**  
+`find . -type f -exec echo "files found" {} \+`  
+
+Key differences:
+- `\;` runs the command once per file (similar to a loop)
+- `\+` runs the command once with all files passed as arguments (more efficient for operations that can handle multiple files)
 <!--ID: 1745238713659-->
 END

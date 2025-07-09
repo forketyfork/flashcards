@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German/C1.md",
+                "file": "gradle/how to define, run and build a Java CLI application.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "C1"
+              "title": "how to define, run and build a Java CLI application"
             }
           }
         ]
@@ -183,11 +183,22 @@
   },
   "active": "fc46abce0c102040",
   "lastOpenFiles": [
-    "der-die-das/der-die-das.md",
+    "gradle/how to define a Java version for the build.md",
+    "gradle/how to define, run and build a Java CLI application.md",
+    "gradle/how to add maven repo and dependencies.md",
+    "gradle/how to set up a Java CLI application with Kotlin support.md",
+    "math/group theory.md",
+    "math/define domain, range and codomain of a function.md",
+    "math/connection between the polynomial degree and the number of its roots.md",
+    "clitools/convert a file between encodings.md",
+    "clitools/compress a pdf file with rasterization.md",
+    "clitools/compress a pdf file preserving vector graphics and text.md",
+    "go/current directory handling in the exec package.md",
+    "German/C1.md",
     "unregelmäßige Verben/unregelmäßige Verben.md",
+    "der-die-das/der-die-das.md",
     "unregelmäßige Verben",
     "der-die-das",
-    "German/C1.md",
     "postgresql/insert on conflict do nothing.md",
     "python/django and database conflicts.md",
     "go/struct tags.md",
@@ -200,18 +211,7 @@
     "macos/how to test launchctl agent on macos.md",
     "shell/how to set a default value of a variable if its not defined.md",
     "templates/WordImageExample.md",
-    "teamcity/artifact dependencies.md",
-    "clitools/compress a pdf file preserving vector graphics and text.md",
     "German",
-    "clitools/compress a pdf file with rasterization.md",
-    "ssh/how to check if an OpenSSH private key is passphrase-protected.md",
-    "go/how to unmarshal json and fail on unknown fields.md",
-    "go/minimal-web-server-in-go.md",
-    "clitools/convert a string using awk.md",
-    "java/G1 heap structure.md",
-    "ssh/what are the correct permissions for the ssh directory.md",
-    "git/set up git name and e-mail configuration for local repository or globally.md",
-    "nix/differences between self super and final prev.md",
     "templates"
   ]
 }

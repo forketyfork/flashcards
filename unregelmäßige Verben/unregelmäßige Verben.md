@@ -470,3 +470,194 @@ er {{c1::ist zusammengebrochen}}
 Nach stundenlanger harter Arbeit sah er plötzlich blass aus und drohte vor Erschöpfung zusammenzubrechen.
 <!--ID: 1751187402124-->
 END
+
+START
+MultiCloze
+Text:
+schieben
+er {{c1::schiebt}}
+er {{c1::schob}}
+er {{c1::hat geschoben}}
+<!--ID: 1751208912046-->
+END
+
+START
+MultiCloze
+Text:
+gefallen
+ihm {{c1::gefällt}}
+ihm {{c1::gefiel}}
+ihm {{c1::hat gefallen}}
+<!--ID: 1751208912054-->
+END
+
+START
+MultiCloze
+Text:
+gelingen
+ihm {{c1::gelingt}}
+ihm {{c1::gelang}}
+ihm {{c1::ist gelungen}}
+<!--ID: 1751208912057-->
+END
+
+START
+MultiCloze
+Text:
+gelten
+er {{c1::gilt}}
+er {{c1::galt}}
+er {{c1::hat gegolten}}
+<!--ID: 1751208912060-->
+END
+
+START
+MultiCloze
+Text:
+genießen
+er {{c1::genießt}}
+er {{c1::genoss}}
+er {{c1::hat genossen}}
+<!--ID: 1751208912064-->
+END
+
+START
+MultiCloze
+Text:
+erklingen
+sie {{c1::erklingt}}
+sie {{c1::erklang}}
+sie {{c1::ist erklungen}}
+<!--ID: 1751208912068-->
+END
+
+START
+MultiCloze
+Text:
+halten
+er {{c1::hält}}
+er {{c1::hielt}}
+er {{c1::hat gehalten}}
+<!--ID: 1751208912071-->
+END
+
+START
+MultiCloze
+Text:
+steigen
+er {{c1::steigt}}
+er {{c1::stieg}}
+er {{c1::ist gestiegen}}
+<!--ID: 1751208912074-->
+END
+
+START
+MultiCloze
+Text:
+zerreißen
+er {{c1::zerreißt}}
+er {{c1::zerriss}}
+er {{c1::hat zerrissen}}
+<!--ID: 1751208912078-->
+END
+
+START
+MultiCloze
+Text:
+schmeißen
+er {{c1::schmeißt}}
+er {{c1::schmiss}}
+er {{c1::hat geschmissen}}
+<!--ID: 1751208912080-->
+END
+
+START
+MultiCloze
+Text:
+fliegen
+er {{c1::fliegt}}
+er {{c1::flog}}
+er {{c1::ist geflogen}}
+<!--ID: 1751208912085-->
+END
+
+START
+MultiCloze
+Text:
+senden
+er {{c1::sendet}}
+er {{c1::sandte/sendete}}
+er {{c1::hat gesandt/gesendet}}
+<!--ID: 1751208912087-->
+END
+
+START
+MultiCloze
+Text:
+ankommen
+er {{c1::kommt an}}
+er {{c1::kam an}}
+er {{c1::ist angekommen}}
+<!--ID: 1751208912092-->
+END
+
+START
+MultiCloze
+Text:
+scheinen
+sie {{c1::scheint}}
+sie {{c1::schien}}
+sie {{c1::hat geschienen}}
+<!--ID: 1751208912095-->
+END
+
+START
+MultiCloze
+Text:
+sich befinden
+er {{c1::befindet sich}}
+er {{c1::befand sich}}
+er {{c1::hat sich befunden}}
+<!--ID: 1751208912097-->
+END
+
+START
+MultiCloze
+Text:
+anrufen
+er {{c1::ruft an}}
+er {{c1::rief an}}
+er {{c1::hat angerufen}}
+<!--ID: 1751208912100-->
+END
+
+START
+MultiCloze
+Text:
+verlassen
+er {{c1::verlässt}}
+er {{c1::verließ}}
+er {{c1::hat verlassen}}
+<!--ID: 1751208912103-->
+END
+
+START
+MultiCloze
+Text:
+aufheben
+er {{c1::hebt auf}}
+er {{c1::hob auf}}
+er {{c1::hat aufgehoben}}
+<!--ID: 1751208912107-->
+END
+
+START
+MultiCloze
+Text:
+fahren
+er {{c1::fährt}}
+er {{c1::fuhr}}
+er {{c1::ist gefahren}}
+<!--ID: 1751208912112-->
+END
+
